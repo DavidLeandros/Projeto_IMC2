@@ -1,0 +1,16 @@
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\bin\Debug\net5.0\Projeto_IMC2.exe
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\bin\Debug\net5.0\Projeto_IMC2.deps.json
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\bin\Debug\net5.0\Projeto_IMC2.runtimeconfig.json
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\bin\Debug\net5.0\Projeto_IMC2.runtimeconfig.dev.json
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\bin\Debug\net5.0\Projeto_IMC2.dll
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\bin\Debug\net5.0\Projeto_IMC2.pdb
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.csproj.AssemblyReference.cache
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.AssemblyInfoInputs.cache
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.AssemblyInfo.cs
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.csproj.CoreCompileInputs.cache
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.dll
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\refint\Projeto_IMC2.dll
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.pdb
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\Projeto_IMC2.genruntimeconfig.cache
+C:\Users\dlean\Desktop\Aula3\Projeto_IMC2\obj\Debug\net5.0\ref\Projeto_IMC2.dll
